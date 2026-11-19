@@ -1,0 +1,6 @@
+id=bootanim-test
+name=开机动画（全屏 · 鲸鱼娘）
+version=v2.1
+versionCode=21
+author=Liwq & DSH
+description=全屏版：g 1264 2780 0 0，中间视频清晰、上下用同画面模糊填充；15fps / 4 秒循环 / JPEG 帧约 6MB。
